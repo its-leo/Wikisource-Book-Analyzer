@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leo.textanalyzer;
+package com.leo.bookanalyzer;
 
-import com.leo.textanalyzer.entities.AbstractData;
-import com.leo.textanalyzer.entities.CauseOfDeath;
-import com.leo.textanalyzer.entities.Character;
-import com.leo.textanalyzer.entities.Place;
+import com.leo.bookanalyzer.entities.AbstractData;
+import com.leo.bookanalyzer.entities.CauseOfDeath;
+import com.leo.bookanalyzer.entities.Character;
+import com.leo.bookanalyzer.entities.Place;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;

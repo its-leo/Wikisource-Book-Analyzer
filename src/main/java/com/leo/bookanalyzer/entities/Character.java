@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leo.textanalyzer.entities;
+package com.leo.bookanalyzer.entities;
 
-import com.leo.textanalyzer.Helper;
+import com.leo.bookanalyzer.Helper;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

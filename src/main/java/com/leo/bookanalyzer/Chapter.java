@@ -1,4 +1,4 @@
-package com.leo.textanalyzer;
+package com.leo.bookanalyzer;
 
 import java.util.ArrayList;
 

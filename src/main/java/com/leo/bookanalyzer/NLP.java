@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leo.textanalyzer;
+package com.leo.bookanalyzer;
 
-import com.leo.textanalyzer.entities.Place;
-import com.leo.textanalyzer.entities.Character;
+import com.leo.bookanalyzer.entities.Place;
+import com.leo.bookanalyzer.entities.Character;
 import edu.stanford.nlp.ie.util.RelationTriple;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
