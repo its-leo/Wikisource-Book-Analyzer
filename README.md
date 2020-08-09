@@ -1,6 +1,6 @@
 # Wikisource Book Analyzer
 
-The code was written in Java within 2 days as a part of my recruiting process at SAP in Nov. 2018.
+The code was written within 2 days as a part of my recruiting process at SAP in Nov. 2018.
 
 
 ## The Task
