@@ -1,8 +1,7 @@
 # Book-Analyzer
 
-This program:
-- fetches 'books' from en.wikisource.org and analyzes them via Natural Language Processing and
-- was written in Java within 2 days as a part of my recruiting process at SAP.
+The goal of this tool is to fetch books from en.wikisource.org and analyze them via Natural Language Processing
+The code was written in Java within 2 days as a part of my recruiting process at SAP.
 
 
 ## The Task
