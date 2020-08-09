@@ -7,8 +7,7 @@ This program:
 
 ## The Task
 - Analyze the book “War and Peace” by Leo Tolstoy with means of Data Science and Machine Learning algorithms.
-- Please use the document „War and Peace“ by Leo Tolstoy at
-- https://en.wikisource.org/wiki/War_and_Peace/Book_One and choose and download the text version using the „Choose format“ link on the left side.
+- Please use the document „War and Peace“ by Leo Tolstoy at https://en.wikisource.org/wiki/War_and_Peace/Book_One and choose and download the text version using the „Choose format“ link on the left side.
 - Your analysis has to be repeatable. That means the script/program used for the analysis can be applied to the document in question and produce the same results. If you use additional sources in your analysis, please document those sources and their retrieval.
 - You can pick a development environment and programming language of your choice.
 - The only requirement is that you can explain your analysis in 25 minutes (including questions and answers).
