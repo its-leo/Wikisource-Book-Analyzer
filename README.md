@@ -1,7 +1,7 @@
 # Book-Analyzer
 
-- The goal of this tool is to fetch books from en.wikisource.org and analyze them via existing Natural Language Processing libraries.
-- The code was written in Java within 2 days as a part of my recruiting process at SAP.
+- The goal of this tool was to fetch books from en.wikisource.org and analyze them via existing Natural Language Processing libraries.
+- The code was written in Java within 2 days as a part of my recruiting process at SAP in Nov. 2018.
 
 
 ## The Task
@@ -21,5 +21,13 @@
   - Track key concepts throughout the book.
 
 
-## Example
+## Some pictures
 ![alt text](https://github.com/its-leo/Book-Analyzer/blob/master/img/1.PNG)
+
+---
+
+![alt text](https://github.com/its-leo/Book-Analyzer/blob/master/img/3.PNG)
+
+![alt text](https://github.com/its-leo/Book-Analyzer/blob/master/img/2.PNG)
+
+![alt text](https://github.com/its-leo/Book-Analyzer/blob/master/img/4.PNG)
